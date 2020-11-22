@@ -1,0 +1,10 @@
+name: Ep1
+version: ${project.version}
+main: com.kfir.ep1.Main
+api-version: 1.16
+authors: [ kfir ]
+description: meow meow meow
+commands:
+  meow:
+    description: meow
+    usage: /<command> [feed/heal]
