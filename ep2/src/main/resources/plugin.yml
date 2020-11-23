@@ -1,0 +1,14 @@
+name: Ep2
+version: ${project.version}
+main: com.kfir.ep2.Main
+api-version: 1.16
+authors: [ kfir ]
+description: meow meow meow
+commands:
+  example:
+    description: meow
+    permission: ep2.meow
+    permission-message: §cYou do not have permission to use this command.
+permissions:
+  ep2.meow:
+    default: op
