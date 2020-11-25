@@ -1,0 +1,9 @@
+name: Ep3
+version: ${project.version}
+main: com.kfir.ep3.Main
+api-version: 1.16
+authors: [ kfir ]
+description: meow meow meow
+commands:
+  points:
+    description: Show you your points
