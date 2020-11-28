@@ -1,0 +1,11 @@
+name: Ep4
+version: ${project.version}
+main: com.kfir.ep4.Main
+api-version: 1.16
+authors: [ kfir ]
+description: meow meow meow
+commands:
+  inv:
+    description: meow
+  meow:
+    description: meow
